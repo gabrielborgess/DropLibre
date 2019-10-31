@@ -7,7 +7,7 @@ Tener instalado flask
 
 ### Dependencias
 
-Python 3
+Python 3\n
 Flask 
 Flask-Bootstrap
 
