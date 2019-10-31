@@ -32,8 +32,12 @@ git clone https://github.com/gabrielborgess/webdropshipflask.git
 
 ## Comando para correr la pagina 
 en la terminal tipear:<br />
-
+Ubuntu 19:<br />
 flask run
+
+Ubuntu 18:<br />
+
+python -m flask run
 
 ### Codigo
 
