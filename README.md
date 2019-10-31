@@ -15,7 +15,10 @@ Flask-Bootstrap.
 
 ### Instalacion (en Ubuntu)
 
-Explain what these tests test and why
+sudo apt install python3-pip<br />
+pip3 install Flask<br />
+pip3 install flask-bootstrap<br />
+
 
 
 
@@ -26,12 +29,10 @@ git clone https://github.com/gabrielborgess/webdropshipflask.git
 
 
 
-## Comando para correr la pagina
+## Comando para correr la pagina 
+en la terminal tipear:<br />
 
 run flask
-sudo apt install python3-pip
-pip3 install Flask
-pip3 install flask-bootstrap
 
 ### Codigo
 
