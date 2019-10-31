@@ -40,7 +40,7 @@ en app.py se almacenan las rutas que redirijan a cada sitio
 
 ## Author
 
-* **Gabriel Borges** - *Initial work* - [PurpleBooth](https://github.com/gabrielborgess)
+* **Gabriel Borges** - *Inicio* - [gabriel](https://github.com/gabrielborgess)
 
 
 
