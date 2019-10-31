@@ -37,7 +37,7 @@ flask run
 
 Ubuntu 18:<br />
 
-python -m flask run
+python3 -m flask run
 
 ### Codigo
 
